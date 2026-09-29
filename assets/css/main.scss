@@ -13,3 +13,64 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+// Single-page profile and CV
+body {
+  font-family: Roboto, Arial, sans-serif;
+}
+
+:root {
+  --global-theme-color: #000;
+  --global-hover-color: #333;
+  --global-footer-bg-color: #fff;
+  --global-footer-text-color: #000;
+  --global-footer-link-color: #000;
+}
+
+.cv-section {
+  clear: both;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+#about,
+#cv {
+  scroll-margin-top: 80px;
+}
+
+.cv-heading,
+.cv-entry-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.cv-section h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.cv-entry {
+  margin-bottom: 1.5rem;
+}
+
+.cv-entry p {
+  margin-top: .35rem;
+}
+
+.cv-section a {
+  text-decoration: underline;
+}
+
+@media (max-width: 576px) {
+  .cv-entry-heading {
+    display: block;
+  }
+
+  .cv-entry-heading span {
+    display: block;
+    margin-top: .15rem;
+  }
+}
