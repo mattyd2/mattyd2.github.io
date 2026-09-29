@@ -41,7 +41,7 @@ social: false # social links remain in the header
 
   <h3>Research</h3>
   <ul>
-    <li>Actionable Conversational Quality Indicators for Improving Task-Oriented Dialog Systems (2022)</li>
+    <li><a href="https://arxiv.org/abs/2109.11064">Actionable Conversational Quality Indicators for Improving Task-Oriented Dialog Systems</a> (2022)</li>
     <li><a href="https://aclanthology.org/2022.ecnlp-1.18/">Domain-specific Distillation Models for Conversational Commerce</a> (2022)</li>
     <li><a href="https://arxiv.org/abs/1704.05179">SearchQA: A New QA Dataset Augmented with Context from a Search Engine</a> (2017)</li>
     <li><a href="https://doi.org/10.1145/3086512.3086537">Early Predictability of Asylum Court Decision</a> (2017)</li>
