@@ -50,10 +50,10 @@ social: false # social links remain in the header
 
   <h3>Patents</h3>
   <ul>
-    <li>Domain Adaptation of AI NLP Encoders with Knowledge Distillation · US-20220318502-A1</li>
-    <li>Automatic Bot Creation Based on Scripts · US 10,853,568 B2</li>
-    <li>Intent Driven Contact Center · US 11,050,884 B2</li>
-    <li>Systems and Methods for Intent Analysis · US 10,902,199 B2</li>
+    <li><a href="https://patents.google.com/patent/US20220318502A1/en">Domain Adaptation of AI NLP Encoders with Knowledge Distillation</a> · US-20220318502-A1</li>
+    <li><a href="https://patents.google.com/patent/US10853568B2/en">Automatic Bot Creation Based on Scripts</a> · US 10,853,568 B2</li>
+    <li><a href="https://patents.google.com/patent/US11050884B2/en">Intent Driven Contact Center</a> · US 11,050,884 B2</li>
+    <li><a href="https://patents.google.com/patent/US10902199B2/en">Systems and Methods for Intent Analysis</a> · US 10,902,199 B2</li>
   </ul>
 
   <h3>Education</h3>
