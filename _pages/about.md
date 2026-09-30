@@ -16,9 +16,15 @@ social: false # social links remain in the header
 </section>
 
 <section id="review" class="cv-section" aria-labelledby="review-heading">
-  <h2 id="review-heading">Conference reviewing</h2>
-  <p>Program Committee member, Knowledge Graphs &amp; Agentic Systems Interplay (NORA), a workshop co-located with AACL-IJCNLP 2026.</p>
-  <p>Reviewer for NeurIPS, ACL, NAACL, EMNLP, EACLP, COLING, and IJCAI-ECAI.</p>
+  <h2 id="review-heading">Industry Reviewer</h2>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>Program Committee · Knowledge Graphs &amp; Agentic Systems Interplay (NORA), AACL-IJCNLP workshop</strong><span>2026</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>NeurIPS</strong><span>2025</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>ACL</strong><span>2023, 2025, 2026</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>NAACL</strong><span>2019, 2021, 2022, 2024</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>EMNLP</strong><span>2025, 2026</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>EACLP</strong><span>2026</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>COLING</strong><span>2020</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>IJCAI-ECAI</strong><span>2026</span></div></div>
 </section>
 
 <section id="cv" class="cv-section" aria-labelledby="cv-heading">
