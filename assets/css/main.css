@@ -1072,8 +1072,7 @@ body {
   border-top: 1px solid var(--global-divider-color);
 }
 
-#about,
-#cv {
+#about {
   scroll-margin-top: 80px;
 }
 
@@ -1082,11 +1081,6 @@ body {
   justify-content: space-between;
   align-items: baseline;
   gap: 1rem;
-}
-
-.cv-section h3 {
-  margin-top: 2.5rem;
-  margin-bottom: 1.25rem;
 }
 
 .cv-entry {
@@ -1105,18 +1099,6 @@ body {
 #review .cv-entry-heading {
   font-size: 0.95rem;
   line-height: 1.35;
-}
-
-#cv {
-  margin-top: 2.5rem;
-}
-
-.cv-entry p {
-  margin-top: 0.35rem;
-}
-
-.cv-section a {
-  text-decoration: underline;
 }
 
 @media (max-width: 576px) {
