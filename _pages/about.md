@@ -27,10 +27,7 @@ social: false # social links remain in the header
 </section>
 
 <section id="cv" class="cv-section" aria-labelledby="cv-heading">
-  <div class="cv-heading">
-    <h2 id="cv-heading">CV</h2>
-    <a href="{{ '/assets/pdf/Matthew_Dunn_s_CV.pdf' | relative_url }}">Download PDF</a>
-  </div>
+  <h2 id="cv-heading">CV</h2>
 
   <h3>Experience</h3>
   <div class="cv-entry"><div class="cv-entry-heading"><strong>CTO · Research Therapeutics</strong><span>July 2026 – Present</span></div><p>Lead technology and scientific computing for lipid nanoparticle-based medicines. Support company formation and fundraising; develop protein language models for LNP design and AI-assisted platforms for literature analysis, evidence synthesis, and scientific diligence.</p></div>
