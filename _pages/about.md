@@ -16,17 +16,6 @@ social: false # social links remain in the header
   <p>Earlier at NYU, I worked on question answering and language modeling, ported gated recurrent unit (GRU) code from Theano to PyTorch, and used one of the first DGX-1 clusters deployed there—well before today’s LLM boom.</p>
 </section>
 
-<section id="review" class="cv-section" aria-labelledby="review-heading">
-  <h2 id="review-heading">Industry Reviewer</h2>
-  <div class="cv-entry"><div class="cv-entry-heading"><strong>Program Committee · Knowledge Graphs &amp; Agentic Systems Interplay (NORA), AACL-IJCNLP workshop; IJCAI-ECAI</strong><span>2026</span></div></div>
-  <div class="cv-entry"><div class="cv-entry-heading"><strong>NeurIPS</strong><span>2025</span></div></div>
-  <div class="cv-entry"><div class="cv-entry-heading"><strong>ACL</strong><span>2023, 2025, 2026</span></div></div>
-  <div class="cv-entry"><div class="cv-entry-heading"><strong>NAACL</strong><span>2019, 2021, 2022, 2024</span></div></div>
-  <div class="cv-entry"><div class="cv-entry-heading"><strong>EMNLP</strong><span>2025, 2026</span></div></div>
-  <div class="cv-entry"><div class="cv-entry-heading"><strong>EACLP</strong><span>2026</span></div></div>
-  <div class="cv-entry"><div class="cv-entry-heading"><strong>COLING</strong><span>2020</span></div></div>
-</section>
-
 <section id="experience" class="cv-section" aria-labelledby="experience-heading">
   <h2 id="experience-heading">Experience</h2>
   <div class="cv-entry"><div class="cv-entry-heading"><strong>CTO · Research Therapeutics</strong><span>July 2026 – Present</span></div><p>Lead technology and scientific computing for lipid nanoparticle-based medicines. Support company formation and fundraising; develop protein language models for LNP design and AI-assisted platforms for literature analysis, evidence synthesis, and scientific diligence.</p></div>
@@ -40,6 +29,17 @@ social: false # social links remain in the header
   <div class="cv-entry"><div class="cv-entry-heading"><strong>CEO · MD Consulting</strong><span>2014 – 2015</span></div><p>Built a laboratory information management system for high-throughput genetic sequencing diagnostics.</p></div>
   <div class="cv-entry"><div class="cv-entry-heading"><strong>Software Engineer · Exponent Partners</strong><span>2012 – 2014</span></div></div>
   <div class="cv-entry"><div class="cv-entry-heading"><strong>Software Engineer · Groundswell</strong><span>2010 – 2012</span></div></div>
+</section>
+
+<section id="review" class="cv-section" aria-labelledby="review-heading">
+  <h2 id="review-heading">Industry Reviewer</h2>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>Program Committee · Knowledge Graphs &amp; Agentic Systems Interplay (NORA), AACL-IJCNLP workshop; IJCAI-ECAI</strong><span>2026</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>NeurIPS</strong><span>2025</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>ACL</strong><span>2023, 2025, 2026</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>NAACL</strong><span>2019, 2021, 2022, 2024</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>EMNLP</strong><span>2025, 2026</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>EACLP</strong><span>2026</span></div></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>COLING</strong><span>2020</span></div></div>
 </section>
 
 <section id="research" class="cv-section" aria-labelledby="research-heading">
