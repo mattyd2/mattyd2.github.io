@@ -11,14 +11,14 @@ social: false # social links remain in the header
 ---
 
 <section id="about" aria-label="About Matthew Dunn">
-  <p>I’m Matthew Dunn, CTO at Research Therapeutics, an early-stage company developing lipid nanoparticle-based medicines. I lead technology and scientific computing, support company formation and fundraising, and build machine learning systems—including protein language models for LNP design and optimization and AI-assisted research platforms.</p>
+  <p>I’m Matthew Dunn, serving as interim CTO at Resurface Therapeutics, an early-stage company developing lipid nanoparticle-based medicines. As an investor, I’m helping the company build its technology and scientific computing foundations while it gets established, including protein language models for LNP design and optimization and AI-assisted research platforms.</p>
   <p>Previously, I co-founded and led Daedaline, served as Research Director and Member of the Technical Staff at Cohere, and built and led LivePerson’s applied AI team.</p>
   <p>Earlier at NYU, I worked on question answering and language modeling, ported gated recurrent unit (GRU) code from Theano to PyTorch, and used one of the first DGX-1 clusters deployed there—well before today’s LLM boom.</p>
 </section>
 
 <section id="experience" class="cv-section" aria-labelledby="experience-heading">
   <h2 id="experience-heading">Experience</h2>
-  <div class="cv-entry"><div class="cv-entry-heading"><strong>CTO · Research Therapeutics</strong><span>July 2026 – Present</span></div><p>Lead technology and scientific computing for lipid nanoparticle-based medicines. Support company formation and fundraising; develop protein language models for LNP design and AI-assisted platforms for literature analysis, evidence synthesis, and scientific diligence.</p></div>
+  <div class="cv-entry"><div class="cv-entry-heading"><strong>Interim CTO · Resurface Therapeutics</strong><span>July 2026 – Present</span></div><p>Support technology and scientific computing as the company gets established, developing protein language models for LNP design and optimization and AI-assisted platforms for literature analysis and scientific diligence.</p></div>
   <div class="cv-entry"><div class="cv-entry-heading"><strong>Co-Founder &amp; CEO · Daedaline</strong><span>October 2023 – July 2026</span></div><p>Raised $2M in seed financing, built the founding team, and developed a production AI platform for real-asset due diligence, including retrieval, distributed inference, and agentic query routing.</p></div>
   <div class="cv-entry"><div class="cv-entry-heading"><strong>Research Director / Member of the Technical Staff · Cohere</strong><span>July 2022 – October 2023</span></div><p>Set annotation and forward-deployed engineering strategy and prototyped model adaptation methods for production language model applications.</p></div>
   <div class="cv-entry"><div class="cv-entry-heading"><strong>VP of Applied Machine Learning · LivePerson</strong><span>September 2021 – April 2022</span></div><p>Led a 20-person applied research team and company-wide deployment of deep learning across conversational AI products.</p></div>
